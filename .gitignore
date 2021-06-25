@@ -1,0 +1,11 @@
+# IDE files
+venv/
+__pycache__/
+.idea
+
+# Secrets
+creds/
+config.json
+
+# Data
+data/
